@@ -10,6 +10,22 @@ An AI-powered productivity and knowledge assistant that combines idea generation
 - **🤝 Job Matcher** – Match resumes against job descriptions with strengths, weaknesses, and recommendations.
 - **🔎 RAG Q&A** – Ask questions directly from PDF documents using Retrieval-Augmented Generation.
 
+## 📸 App Demo Images
+![image](demo_images/1.png)
+---
+![image](demo_images/2.png)
+---
+![image](demo_images/3.png)
+---
+![image](demo_images/4.png)
+---
+![image](demo_images/5.png)
+---
+![image](demo_images/6.png)
+---
+![image](demo_images/7.png)
+---
+
 ## 🛠️ Tech Stack
 
 - **Python** 3.10+
