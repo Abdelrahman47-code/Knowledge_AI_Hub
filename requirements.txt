@@ -1,0 +1,10 @@
+streamlit
+requests
+python-dotenv
+langchain
+langchain-community
+PyPDF2
+langdetect
+scikit-learn
+pandas
+numpy
