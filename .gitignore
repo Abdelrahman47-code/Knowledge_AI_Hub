@@ -4,6 +4,10 @@ venv/
 ENV/
 env/
 
+# Python neglected files
+main.py
+main_en.py
+
 # Python cache
 __pycache__/
 *.pyc
