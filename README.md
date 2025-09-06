@@ -10,6 +10,7 @@ An AI-powered productivity and knowledge assistant that combines idea generation
 - **🤝 Job Matcher** – Match resumes against job descriptions with strengths, weaknesses, and recommendations.
 - **🔎 RAG Q&A** – Ask questions directly from PDF documents using Retrieval-Augmented Generation.
 
+---
 ## 📸 App Demo Images
 ![image](demo_images/1.png)
 ---
@@ -31,7 +32,7 @@ An AI-powered productivity and knowledge assistant that combines idea generation
 - **Python** 3.10+
 - **Streamlit** – Frontend UI
 - **LangChain** – Document processing & chaining
-- **OpenRouter API** – LLM access (replace with your own provider if needed)
+- **OpenRouter API** – LLM access
 - **PyPDFLoader** – PDF handling
 - **dotenv** – Environment management
 
@@ -67,7 +68,7 @@ knowledge_ai_hub/
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/your-username/knowledge-ai-hub.git
+   git clone https://github.com/Abdelrahman47-code/Knowledge_AI_Hub
    cd knowledge-ai-hub
    ```
 
@@ -88,7 +89,6 @@ knowledge_ai_hub/
    Copy `.env.example` → `.env` and add your keys:
    ```
    OPENROUTER_KEY=your_api_key_here
-   MODEL_NAME=openai/gpt-4o-mini
    ```
 
 5. **Run App**
@@ -103,18 +103,13 @@ knowledge_ai_hub/
 - Keep all prompt templates in `prompts/`.
 - Use `.env` for API keys and config.
 
-## ✅ Roadmap
-
-- Add multi-model support (Anthropic, Gemini, etc.)
-- Improve resume-job scoring system
-- Export results (PDF, Excel)
-- Add database persistence for user history
-- Deploy on Streamlit Cloud / Docker
-
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss.
 
-## 📜 License
+---
 
-MIT License © 2025 [Your Name]
+## ✨ Connect with me
+- 🌐 [Portfolio](https://sites.google.com/view/abdelrahman-eldaba110)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahmaneldaba)
+- 📊 [Kaggle](https://www.kaggle.com/abdelrahmanahmed110)
