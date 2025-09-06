@@ -1,25 +1,3 @@
-# from langchain.prompts import PromptTemplate
-
-# expense_template = PromptTemplate(
-#     input_variables=["user_input", "format_instructions"],
-#     template="""
-# You are a smart assistant that extracts purchases from a description of someone’s day.
-# Input may be Arabic or English. Respond in JSON ONLY.
-
-# Rules:
-# - Extract (name, amount, [currency]) for each purchase.
-# - Ignore returned/refunded items when calculating totals.
-
-# Format:
-# {format_instructions}
-
-# Input:
-# "{user_input}"
-# """
-# )
-
-
-
 from langchain.prompts import PromptTemplate
 
 expense_template = PromptTemplate(
